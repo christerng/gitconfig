@@ -1,0 +1,42 @@
+[user]
+	name = Christopher Terence Ng
+	email = christerng@gmail.com
+
+[init]
+	defaultBranch = main
+[branch]
+	sort = -committerdate
+[commit]
+	verbose = true
+[tag]
+	sort = version:refname
+[push]
+	default = simple
+	autoSetupRemote = true
+	followTags = true
+[fetch]
+	prune = true
+	pruneTags = true
+	all = true
+[merge]
+	conflictstyle = zdiff3
+[pull]
+	rebase = true
+[rebase]
+	autoSquash = true
+	autoStash = true
+	updateRefs = true
+
+[column]
+	ui = auto
+[diff]
+	algorithm = histogram
+	colorMoved = plain
+	mnemonicPrefix = true
+	renames = true
+[help]
+	autocorrect = prompt
+[rerere]
+	enabled = true
+	autoupdate = true
+
