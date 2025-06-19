@@ -1,0 +1,29 @@
+{
+    "employees": [
+        {
+            "eid": "E0000",
+            "name": "admin",
+            "password_hash": "$2b$12$32R4FccYnhNHaBWidMlWaOEr83pFJ.p/SoiekUlnthc5kW0ucBeem"
+        },
+        {
+            "eid": "E0001",
+            "name": "Lau Yuu Sheng",
+            "password_hash": "25c2c9afdd83b8d34234aa2881cc341c09689aaa"
+        },
+        {
+            "eid": "E0002",
+            "name": "Choo Beng Hoo",
+            "password_hash": "661b039b439da8d7072630d76b48846cc3acecc5"
+        },
+        {
+            "eid": "E0003",
+            "name": "Seow Lang Keng",
+            "password_hash": "16eabbbbd82b7d8ddf13ac4910757ca888d0eeec"
+        },
+        {
+            "eid": "E0004",
+            "name": "Kee Seow Gia",
+            "password_hash": "4c95d8f77fe1e88185581d801d3c36931fe02abe"
+        }
+    ]
+}
